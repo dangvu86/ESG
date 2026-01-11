@@ -1,0 +1,56 @@
+[
+    {
+        "company": "DNP Holding (DNP)",
+        "type": "E",
+        "date": "04/2025",
+        "summary": "Bi UBND tinh Dong Nai phat 320 trieu dong vi hoat dong san xuat khong co giay phep moi truong. Bi dinh chi 4.5 thang va buoc di doi",
+        "severity": "Cao",
+        "source": "Bao Thanh tra",
+        "url": "https://thanhtra.com.vn/xu-ly-sau-thanh-tra-976EADF26/cong-ty-co-phan-dnp-holding-bi-phat-320-trieu-dong-vi-vi-pham-moi-truong-f237bdafe.html"
+    },
+    {
+        "company": "Chung khoan VPS (VCK)",
+        "type": "G",
+        "date": "12/2023",
+        "summary": "Bi UBCKNN phat 85 trieu dong vi khong giam sat, ngan ngua xung dot loi ich noi bo va giua nguoi hanh nghe chung khoan voi khach hang",
+        "severity": "Trung binh",
+        "source": "CafeF",
+        "url": "https://cafef.vn/them-cong-ty-chung-khoan-bi-uy-ban-chung-khoan-nha-nuoc-xu-phat-188231220111010279.chn"
+    },
+    {
+        "company": "Chung khoan VPBank (VPX)",
+        "type": "G",
+        "date": "02/2024",
+        "summary": "Bi UBCKNN phat 340 trieu dong vi khong dam bao thong tin day du trong ho so phat hanh trai phieu rieng le va bao cao khong dung thoi han",
+        "severity": "Trung binh",
+        "source": "UBCKNN",
+        "url": "https://ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620142007"
+    },
+    {
+        "company": "Chung khoan VPBank (VPX)",
+        "type": "G",
+        "date": "09/2025",
+        "summary": "Bi UBCKNN phat 340 trieu dong vi giai ngan cho khach hang mua chung khoan khong trong danh sach margin va cung cap dich vu cho vay (eMonie) khi chua bao cao UBCKNN",
+        "severity": "Trung binh",
+        "source": "Tuoi Tre",
+        "url": "https://tuoitre.vn/sap-ipo-khung-mot-cong-ty-chung-khoan-bi-phat-vi-san-pham-cho-vay-chui-20250926214952112.htm"
+    },
+    {
+        "company": "Bao hiem Buu dien (PTI)",
+        "type": "G",
+        "date": "12/2025",
+        "summary": "Bi Cuc thue TP Ha Noi xu phat va truy thu hon 6.2 ty dong tien thue do ke khai sai, su dung hoa don khong hop phap, lap hoa don sai thoi diem",
+        "severity": "Cao",
+        "source": "CafeF",
+        "url": "https://cafef.vn/mot-doanh-nghiep-tren-san-chung-khoan-vua-bi-phat-va-truy-thu-6-ty-dong-tien-thue-188251215102059946.chn"
+    },
+    {
+        "company": "Bao hiem Buu dien (PTI)",
+        "type": "G",
+        "date": "03/2023",
+        "summary": "Bi xu phat va truy thu hon 1.3 ty dong tien thue do ke khai sai dua tren ket qua kiem toan nha nuoc cho nam 2018",
+        "severity": "Trung binh",
+        "source": "CafeF",
+        "url": "https://cafef.vn/vua-chiu-thua-lo-ky-luc-bao-hiem-buu-dien-pti-tiep-tuc-bi-xu-phat-vi-pham-thue-188230327213851197.chn"
+    }
+]
